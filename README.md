@@ -4,7 +4,7 @@ Fps Setting
 使用Sleep()依據玩家需求設定難度。
 
 Snake Body (Linked-list Node)
-每個Node中包含x座標與x座標並使用指向下一個Body。
+每個Node中包含x座標與y座標並指向下一個Body。
 
 Snake Tail(Head of Linked-list)
 蛇以Tail作為Linked-list的head，方便後續操作
